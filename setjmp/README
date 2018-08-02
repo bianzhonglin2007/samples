@@ -1,0 +1,7 @@
+1. setjmp/longjmp测试程序，模拟java里面的try/cache异常处理流程
+2. 编译的时候需要添加-g -rdynamic, 否则无法打印堆栈信息
+3. 使用addr2line -e setjmp_test -i 0x400aa5 定位到具体的产测段错误代码行
+
+参考博客:
+https://www.cnblogs.com/sunowfox/p/6860588.html
+https://blog.csdn.net/wanglang3081/article/details/18664919
