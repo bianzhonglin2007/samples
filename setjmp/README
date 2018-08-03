@@ -1,7 +1,7 @@
-1. setjmp/longjmp²âÊÔ³ÌĞò£¬Ä£ÄâjavaÀïÃæµÄtry/cacheÒì³£´¦ÀíÁ÷³Ì
-2. ±àÒëµÄÊ±ºòĞèÒªÌí¼Ó-g -rdynamic, ·ñÔòÎŞ·¨´òÓ¡¶ÑÕ»ĞÅÏ¢
-3. Ê¹ÓÃaddr2line -e setjmp_test -i 0x400aa5 ¶¨Î»µ½¾ßÌåµÄ²ú²â¶Î´íÎó´úÂëĞĞ
+1. setjmp/longjmpæµ‹è¯•ç¨‹åºï¼Œæ¨¡æ‹Ÿjavaé‡Œé¢çš„try/cacheå¼‚å¸¸å¤„ç†æµç¨‹
+2. ç¼–è¯‘çš„æ—¶å€™éœ€è¦æ·»åŠ -g -rdynamic, å¦åˆ™æ— æ³•æ‰“å°å †æ ˆä¿¡æ¯
+3. ä½¿ç”¨addr2line -e setjmp_test -i 0x400aa5 å®šä½åˆ°å…·ä½“çš„äº§æµ‹æ®µé”™è¯¯ä»£ç è¡Œ
 
-²Î¿¼²©¿Í:
+å‚è€ƒåšå®¢:
 https://www.cnblogs.com/sunowfox/p/6860588.html
 https://blog.csdn.net/wanglang3081/article/details/18664919
