@@ -1,0 +1,3 @@
+andoid下学习RefBase, sp, wp控制c++对象自动回收机制时写的demo
+
+demo放到android系统/system/core下面就可以编译，我在android4.4系统测试
